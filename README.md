@@ -1,5 +1,5 @@
-# Projeto Tabuada
-![img](favicon.ico)
+# Projeto Tabuada ![img](calculator32px.png)
+
 
 Este projeto é uma aplicação web simples para gerar a tabuada de multiplicação de um número inserido pelo usuário. O usuário pode digitar um número e, ao clicar no botão, a aplicação exibirá a tabuada correspondente em uma lista.
 
@@ -23,4 +23,6 @@ Este projeto é uma aplicação web simples para gerar a tabuada de multiplicaç
 
 3. **Gerar a Tabuada**: Clique no botão "Gerar Tabuada" para exibir a tabuada do número inserido.
 
-4. **Visualizar a Tabuada**: A tabuada será exibida em uma lista de opções logo abaixo do botão.
+4. **Visualizar a Tabuada**: [DEMO]()
+
+![img](tabuada.png)
