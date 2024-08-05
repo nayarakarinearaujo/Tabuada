@@ -23,6 +23,6 @@ Este projeto é uma aplicação web simples para gerar a tabuada de multiplicaç
 
 3. **Gerar a Tabuada**: Clique no botão "Gerar Tabuada" para exibir a tabuada do número inserido.
 
-4. **Visualizar a Tabuada**: [DEMO]()
+4. **Visualizar a Tabuada**: [DEMO](https://tabuada-iota-steel.vercel.app/)
 
 ![img](tabuada.png)
